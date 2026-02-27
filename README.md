@@ -13,7 +13,7 @@ Languages: English (Fluent), Russian (Native)
 * Remote Support: Remote desktop administration and user technical support.
 
 **Development & Automation:**
-* Android Ecosystem: App development, ADB debugging, and system-level adjustments (e.g., bypassing region-lock connectivity restrictions).
+* Android Ecosystem: App development, ADB debugging, and system-level adjustments (e.g., troubleshooting and fixing system network misconfigurations).
 * Scripting: Writing utility scripts to automate maintenance and administrative tasks.
 
 **Data & Documentation:**
